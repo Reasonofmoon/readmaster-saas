@@ -1,0 +1,23 @@
+# Dependencies and build outputs
+node_modules/
+.next/
+out/
+dist/
+coverage/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local tooling state
+.superpowers/
+.codex/
+.agents/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.log
