@@ -16,5 +16,5 @@
 
 - [x] 커밋 대상과 민감정보 경계를 감사한다.
 - [x] Git 저장소, `main` 브랜치와 `origin` 원격을 구성한다.
-- [ ] 문서 검증 후 `docs: bootstrap ReadMaster Lesson Studio harness` 커밋을 생성한다.
-- [ ] `origin/main`에 push하고 원격 commit hash를 확인한다.
+- [x] 문서 검증 후 `docs: bootstrap ReadMaster Lesson Studio harness` 커밋을 생성한다.
+- [x] `origin/main`에 push하고 원격 commit hash를 확인한다.
